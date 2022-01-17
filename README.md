@@ -1,1 +1,1 @@
-# covid-food-survay
+# DS assignments
